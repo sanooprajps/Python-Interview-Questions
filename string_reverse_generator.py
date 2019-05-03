@@ -8,3 +8,4 @@ for char in string_rev("reverse"):
 print ("Reversed string :- "+str(''.join(rev_word)))
 print ("hello")
 print ("test")
+print ("final")

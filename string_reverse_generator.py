@@ -7,3 +7,4 @@ for char in string_rev("reverse"):
     rev_word.append(char)
 print ("Reversed string :- "+str(''.join(rev_word)))
 print ("hello")
+print ("test")
